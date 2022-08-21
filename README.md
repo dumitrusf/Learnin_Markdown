@@ -332,9 +332,20 @@ ESTE ES UN TEXTO '1'
 
 y
 
-EESTE ES UN TEXTO 'Z'
+ESTE ES UN TEXTO 'Z'
 
 ---
+Esta linea divisoria de aqui 👆 se forma con tres rayas y ya esta! asi: 
+👇
+```
+simplemente asi (👈 despues de escribir este texto, retorno de linea osea enter y ponemos 3 rayitas!)
+
+---
+
+```
+
+
+
 
 .
 
