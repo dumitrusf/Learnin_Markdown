@@ -276,6 +276,12 @@ El **CODIGO PREFORMATEADO** que el usuario ve **EN LA VISTA PREVIA DEL USUARIO S
 
   - _inmediatamente despues de las tres comillas le podemos añadir **js** diciendo que es codigo javascript, el editor se encargara de darle lños colores correspondientes!_
 
+        ```js
+        function sumar (a, b) {
+        return a + b;
+        }
+        ```    
+
   - **TAMBIEN PODEMOS IGNORAR DE OTRA MANERA EL CODIGO Y QUE SE MUESTRE DIRECTAMENTE INTERRUMPIENDO LOS CARRACTERES!! 3º
 
     **EJEMPLO:**
